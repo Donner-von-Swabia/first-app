@@ -1,0 +1,10 @@
+Virtual Environment:ve
+CMD : nyvenv\Scripts\activate
+Install CMD: pip install -r req.txt
+Create project: django-admin.exe startproject mysite .
+Migrate CMD: python manage.py migrate
+Runserver CMD: python manage.py Runserver
+New App CMD: python manage.py startapp blog
+Admin User Name:Helio
+Admin Email: sle1709242001@icloud.com
+Admin Password:Alpha
